@@ -1,0 +1,4 @@
+# 忽略 Jupyter Notebook 的缓存
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
